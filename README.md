@@ -1,2 +1,2 @@
-# cordova-plugin-locale-de
-Changes the iOS CFBundleDevelopmentRegion from English to de_DE in *-Info.plist. Causes the "Done" button in the keyboard to be renamed to "Fertig"
+# cordova-plugin-locale-it
+Changes the iOS CFBundleDevelopmentRegion from English to it_IT in *-Info.plist.
