@@ -18,16 +18,16 @@
   under the License.
 -->
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-        id="com.treefin.plugins.locale.de"
+        id="com.treefin.plugins.locale.it"
         version="0.0.1">
 
     <name>CFBundleDevelopmentRegion de_DE</name>
-    <description>Changes the iOS CFBundleDevelopmentRegion from English to de_DE in *-Info.plist. Causes the "Done" button in the keyboard to be renamed to "Fertig"</description>
+    <description>Changes the iOS CFBundleDevelopmentRegion from English to it_IT in *-Info.plist.</description>
 
     <!-- ios -->
     <platform name="ios">
         <config-file target="*-Info.plist" parent="CFBundleDevelopmentRegion">
-            <string>de_DE</string>
+            <string>it_IT</string>
         </config-file>
     </platform>
 
