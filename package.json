@@ -1,0 +1,23 @@
+{
+  "name": "cordova-plugin-locale-nb-no",
+  "version": "0.0.1",
+  "description": "cordova-plugin-locale-nb-no",
+  "cordova": {
+    "id": "cordova-plugin-locale-nb-no",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stdob/cordova-plugin-locale-nb-no"
+  },
+  "keywords": [
+    "cordova",
+    "cordova-ios"
+  ],
+  "scripts": {
+  },
+  "author": "Apache Software Foundation",
+  "license": "Apache-2.0"
+}
