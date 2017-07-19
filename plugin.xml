@@ -18,16 +18,16 @@
   under the License.
 -->
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-        id="com.treefin.plugins.locale.it"
+        id="com.treefin.plugins.locale.nb-no"
         version="0.0.1">
 
-    <name>CFBundleDevelopmentRegion de_DE</name>
-    <description>Changes the iOS CFBundleDevelopmentRegion from English to it_IT in *-Info.plist.</description>
+    <name>CFBundleDevelopmentRegion nb_NO</name>
+    <description>Changes the iOS CFBundleDevelopmentRegion from English to nb_NO in *-Info.plist.</description>
 
     <!-- ios -->
     <platform name="ios">
         <config-file target="*-Info.plist" parent="CFBundleDevelopmentRegion">
-            <string>it_IT</string>
+            <string>nb_NO</string>
         </config-file>
     </platform>
 
