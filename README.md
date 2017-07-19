@@ -1,2 +1,2 @@
-# cordova-plugin-locale-it
-Changes the iOS CFBundleDevelopmentRegion from English to it_IT in *-Info.plist.
+# cordova-plugin-locale-nb-no
+Changes the iOS CFBundleDevelopmentRegion from English to nb_NO in *-Info.plist.
